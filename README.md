@@ -12,7 +12,7 @@
 This project estimates the speed of moving vehicles on highways using a fixed-perspective traffic camera. By combining **Object Detection**, **Multi-Object Tracking (MOT)**, and **Projective Geometry (Homography)**, the system can calculate real-time vehicle speed in km/h.
 
 **🚀 Demo:**
-*(Chèn ảnh GIF hoặc link YouTube của bạn vào đây. Cú pháp: `![Demo](data/processed/demo_result.mp4`)*
+*`![Demo](https://drive.google.com/file/d/14lWDklmzpPBrHTm5xwjaN__HAfD34UPx/view?usp=drive_link)`*
 
 ## ⚙️ Key Technologies & Skills Demonstrated
 - **Detection & Tracking:** Ultralytics YOLOv8, ByteTrack (robust tracking against occlusion).
