@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# videos
+*.mp4
+*.avi
+*.mov
+
+# models
+*.pt
+*.pth
+
+# python
+__pycache__/
+*.pyc
+
+# virtual env
+venv/
+.speed_venv/
