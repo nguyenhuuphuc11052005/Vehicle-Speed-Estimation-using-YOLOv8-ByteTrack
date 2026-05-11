@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  speed-estimator:
+    build: .
+    container_name: cv_speed_estimator
+    volumes:
+      # Map thư mục data trên máy bạn vào thư mục /app/data trong container
+      - ./data:/app/data
+    restart: "no"
